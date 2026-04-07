@@ -1,8 +1,8 @@
 <h1 align="center">Hi, I'm Shebin S Illikkal 👋</h1>
 
 <p align="center">
-  <b>Freelance Data Scientist • ML Engineer • App Developer • Claude AI Expert</b><br/>
-  Kerala, India 🇮🇳 &nbsp;|&nbsp; Open to freelance projects
+  <b>Freelance Data Scientist • ML Engineer • Flutter Developer • Claude AI Expert</b><br/>
+  Kerala, India 🇮🇳 &nbsp;|&nbsp; Open to freelance projects worldwide
 </p>
 
 <p align="center">
@@ -13,17 +13,32 @@
 
 ---
 
-### 🧠 What I do
+## 🧠 What I'm Actually Capable Of
 
-- 📊 **Data Science & Analytics** — turning messy data into decisions that make sense
-- 🤖 **Machine Learning** — models that actually ship, not just notebooks that look clean
-- 📱 **Mobile Apps** — FlutterFlow apps from idea to Play Store
-- 🌐 **Full-Stack Web** — React + Node/FastAPI + databases, end to end
-- 🤖 **Claude AI** — building real products with the Claude API, not just demos
+### Data Science & Machine Learning
+I build ML systems that ship — not just research notebooks. I've trained and deployed models for sales forecasting, customer churn prediction, fraud detection, and medical image classification. I'm comfortable with the whole pipeline: raw data → feature engineering → model training → evaluation → deployment → monitoring. I know when to use a simple linear model and when to go deep. I've worked with TensorFlow, PyTorch, XGBoost, and Scikit-Learn on real production systems.
+
+### Python & Data Engineering
+Python is my strongest language. I write clean, maintainable code — not just scripts that work once. I've built ETL pipelines processing millions of records daily, automated data workflows that replaced hours of manual work, and data quality systems that catch issues before they reach analysts. Pandas, NumPy, Celery, SQLAlchemy, FastAPI — I use these daily.
+
+### Claude AI & LLM Integration
+I have solid hands-on experience with the Claude API — not just calling it, but actually building products with it. I've built document Q&A systems, intelligent chatbots with memory, AI agents that use tool calls, and automation workflows that use Claude for reasoning. I use Claude Code daily for my own development work. I understand the API deeply enough to build reliable, cost-efficient applications rather than just demos.
+
+### Mobile App Development (FlutterFlow & Flutter)
+I build cross-platform mobile apps that go live on the Play Store. FlutterFlow lets me move fast without sacrificing quality — I've used it for e-commerce apps, warranty management systems, national park visitor apps, and more. I handle the full mobile stack: UI, Firebase backend, push notifications, payment integration (Stripe, Razorpay), offline functionality, and app store deployment.
+
+### Full-Stack Web Development
+I build complete web products — React frontends, Node.js or FastAPI backends, PostgreSQL or MongoDB databases, Docker deployments. I'm not a designer but I build clean, functional UIs and solid backend systems. I've handled API design, authentication, real-time features, and cloud deployment on AWS and GCP.
+
+### Business Intelligence & Analytics
+I've built Power BI dashboards for retail chains with 50+ stores, automated reporting systems, and analytics pipelines. I know how to take messy business data and turn it into something decision-makers can actually use. DAX, Power Query, SQL — I've used them all in real client projects.
+
+### Problem Solving
+Probably the most useful thing I can do: look at a business problem and figure out the right technical solution — or tell the client honestly when technology isn't the answer. I've seen enough projects go wrong to know what causes them to fail, and I try hard to avoid those patterns.
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -35,30 +50,40 @@
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+<img src="https://img.shields.io/badge/FlutterFlow-7C4DFF?style=flat-square&logo=flutter&logoColor=white"/>
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2CA5E0?style=flat-square&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude_AI-6B46C1?style=flat-square&logo=anthropic&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
 </p>
 
 ---
 
-### 📌 Featured Projects
+## 📌 Projects
 
 | Project | What it is | Stack |
 |--------|------------|-------|
-| [🌐 Portfolio](https://shebinsillikkal.github.io/shebin-portfolio) | My full portfolio website | HTML/CSS/JS |
-| [📊 ML Sales Forecasting](https://github.com/shebinsillikkal/ml-sales-forecasting) | 94% accurate sales prediction engine | Python, XGBoost, Scikit-Learn |
-| [🤖 Claude AI Enterprise Bot](https://github.com/shebinsillikkal/claude-ai-enterprise-bot) | Document Q&A chatbot using Claude API | Claude API, FastAPI, React |
-| [🔄 DataFlow Automation](https://github.com/shebinsillikkal/dataflow-automation) | ETL pipeline processing 2M+ records/day | Python, Pandas, Celery |
-| [👁️ VisionGuard AI](https://github.com/shebinsillikkal/visionguard-ai) | Real-time CCTV security using TensorFlow | TensorFlow, OpenCV, Python |
-| [📱 ShopEase App](https://github.com/shebinsillikkal/shopease-flutterflow) | E-commerce mobile app on Play Store | FlutterFlow, Firebase, Stripe |
+| [🌐 Portfolio](https://shebinsillikkal.github.io/shebin-portfolio) | Personal portfolio website | HTML/CSS/JS |
+| [🔒 iLab Warranty App](https://github.com/shebinsillikkal/ilab-warranty-app) | Smart warranty management mobile app | Flutter, Firebase, FCM |
+| [🌿 Silent Valley App](https://github.com/shebinsillikkal/silentvalley-app) | National park visitor & trekking companion | Flutter, Maps, Firebase |
+| [📊 ML Sales Forecasting](https://github.com/shebinsillikkal/ml-sales-forecasting) | 94% accurate sales prediction engine | Python, XGBoost, SHAP |
+| [🤖 Claude AI Enterprise Bot](https://github.com/shebinsillikkal/claude-ai-enterprise-bot) | Document Q&A bot using Claude API | Claude API, FastAPI |
+| [🔄 DataFlow Automation](https://github.com/shebinsillikkal/dataflow-automation) | ETL pipeline — 2M+ records/day | Python, Pandas, Celery |
+| [👁️ VisionGuard AI](https://github.com/shebinsillikkal/visionguard-ai) | Real-time CCTV security system | TensorFlow, OpenCV |
+| [🛒 ShopEase App](https://github.com/shebinsillikkal/shopease-flutterflow) | E-commerce app on Play Store | FlutterFlow, Stripe |
 
 ---
 
-### 📫 Hire Me
+## 📫 Hire Me
 
-I'm open to freelance projects — data science, ML, apps, or AI integration work.
+I'm open to freelance projects — data science, ML, mobile apps, web development, or AI integration.
 
-📧 **Shebinsillikkl@gmail.com** &nbsp;|&nbsp; 📞 **+91 9745461686** &nbsp;|&nbsp; 💬 **[WhatsApp](https://wa.me/919745461686)**
+**Response time: usually within a few hours.**
+
+📧 **[Shebinsillikkl@gmail.com](mailto:Shebinsillikkl@gmail.com)**
+📞 **+91 9745461686**
+💬 **[WhatsApp](https://wa.me/919745461686?text=Hi%20Shebin%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project)**
