@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:Shebinsillikkl@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:Shebinsillikkal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://wa.me/919745461686"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
   <a href="https://shebinsillikkal.github.io/shebin-portfolio"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
@@ -25,16 +25,16 @@ Python is my strongest language. I write clean, maintainable code — not just s
 I have solid hands-on experience with the Claude API — not just calling it, but actually building products with it. I've built document Q&A systems, intelligent chatbots with memory, AI agents that use tool calls, and automation workflows that use Claude for reasoning. I use Claude Code daily for my own development work. I understand the API deeply enough to build reliable, cost-efficient applications rather than just demos.
 
 ### Mobile App Development (FlutterFlow & Flutter)
-I build cross-platform mobile apps that go live on the Play Store. FlutterFlow lets me move fast without sacrificing quality — I've used it for e-commerce apps, warranty management systems, national park visitor apps, and more. I handle the full mobile stack: UI, Firebase backend, push notifications, payment integration (Stripe, Razorpay), offline functionality, and app store deployment.
+I build cross-platform mobile apps that go live on the Play Store. FlutterFlow lets me move fast without sacrificing quality — I've built e-commerce apps, warranty management systems, national park visitor apps, and more. I handle the full mobile stack: UI, Firebase backend, push notifications, payment integration (Stripe, Razorpay), offline functionality, and app store deployment.
 
 ### Full-Stack Web Development
-I build complete web products — React frontends, Node.js or FastAPI backends, PostgreSQL or MongoDB databases, Docker deployments. I'm not a designer but I build clean, functional UIs and solid backend systems. I've handled API design, authentication, real-time features, and cloud deployment on AWS and GCP.
+I build complete web products — React frontends, Node.js or FastAPI backends, PostgreSQL or MongoDB databases, Docker deployments. I've handled API design, authentication, real-time features, and cloud deployment on AWS and GCP.
 
 ### Business Intelligence & Analytics
-I've built Power BI dashboards for retail chains with 50+ stores, automated reporting systems, and analytics pipelines. I know how to take messy business data and turn it into something decision-makers can actually use. DAX, Power Query, SQL — I've used them all in real client projects.
+I've built Power BI dashboards for retail chains with 50+ stores, automated reporting systems, and analytics pipelines. I know how to take messy business data and turn it into something decision-makers can actually use.
 
 ### Problem Solving
-Probably the most useful thing I can do: look at a business problem and figure out the right technical solution — or tell the client honestly when technology isn't the answer. I've seen enough projects go wrong to know what causes them to fail, and I try hard to avoid those patterns.
+Look at a business problem and figure out the right technical solution — or tell the client honestly when technology isn't the answer.
 
 ---
 
@@ -63,27 +63,48 @@ Probably the most useful thing I can do: look at a business problem and figure o
 
 ---
 
-## 📌 Projects
+## 📌 All Projects
 
-| Project | What it is | Stack |
-|--------|------------|-------|
-| [🌐 Portfolio](https://shebinsillikkal.github.io/shebin-portfolio) | Personal portfolio website | HTML/CSS/JS |
-| [🔒 iLab Warranty App](https://github.com/shebinsillikkal/ilab-warranty-app) | Smart warranty management mobile app | Flutter, Firebase, FCM |
-| [🌿 Silent Valley App](https://github.com/shebinsillikkal/silentvalley-app) | National park visitor & trekking companion | Flutter, Maps, Firebase |
-| [📊 ML Sales Forecasting](https://github.com/shebinsillikkal/ml-sales-forecasting) | 94% accurate sales prediction engine | Python, XGBoost, SHAP |
-| [🤖 Claude AI Enterprise Bot](https://github.com/shebinsillikkal/claude-ai-enterprise-bot) | Document Q&A bot using Claude API | Claude API, FastAPI |
-| [🔄 DataFlow Automation](https://github.com/shebinsillikkal/dataflow-automation) | ETL pipeline — 2M+ records/day | Python, Pandas, Celery |
-| [👁️ VisionGuard AI](https://github.com/shebinsillikkal/visionguard-ai) | Real-time CCTV security system | TensorFlow, OpenCV |
-| [🛒 ShopEase App](https://github.com/shebinsillikkal/shopease-flutterflow) | E-commerce app on Play Store | FlutterFlow, Stripe |
+### 🌐 Web & Portfolio
+| Repo | Description |
+|------|-------------|
+| [shebin-portfolio](https://shebinsillikkal.github.io/shebin-portfolio) | Personal portfolio website — live on GitHub Pages |
+| [analytix-dashboard](https://github.com/shebinsillikkal/analytix-dashboard) | Real-time SaaS analytics dashboard — 40+ chart types, WebSocket |
+| [apiforge-gateway](https://github.com/shebinsillikkal/apiforge-gateway) | Enterprise API gateway — JWT, rate limiting, 500K+ daily calls |
+| [contentverse-cms](https://github.com/shebinsillikkal/contentverse-cms) | Headless CMS on MongoDB — 8 client sites, 1M+ monthly views |
+
+### 🤖 AI & Machine Learning
+| Repo | Description |
+|------|-------------|
+| [ai-analytics-platform](https://github.com/shebinsillikkal/ai-analytics-platform) | Natural language data querying powered by Claude AI |
+| [claude-ai-enterprise-bot](https://github.com/shebinsillikkal/claude-ai-enterprise-bot) | Document Q&A bot — answers from your own PDFs & docs |
+| [ml-sales-forecasting](https://github.com/shebinsillikkal/ml-sales-forecasting) | 94% accurate sales forecasting — XGBoost + RF ensemble |
+| [customer-churn-prediction](https://github.com/shebinsillikkal/customer-churn-prediction) | 96% recall churn model integrated into CRM |
+| [visionguard-ai](https://github.com/shebinsillikkal/visionguard-ai) | Real-time CCTV security — TensorFlow, 30 FPS inference |
+| [deepvision-pytorch](https://github.com/shebinsillikkal/deepvision-pytorch) | Medical X-ray classifier — ViT + ResNet, 97.2% accuracy |
+
+### 🔧 Data Engineering & DevOps
+| Repo | Description |
+|------|-------------|
+| [dataflow-automation](https://github.com/shebinsillikkal/dataflow-automation) | ETL pipeline — 2M+ records/day, 10+ sources automated |
+| [cloudml-deploy](https://github.com/shebinsillikkal/cloudml-deploy) | MLOps platform — AWS/GCP, CI/CD, auto-scaling, 60% cost saving |
+| [predictapi](https://github.com/shebinsillikkal/predictapi) | ML inference API — 5ms response, 3K+ concurrent requests |
+| [pymlutils](https://github.com/shebinsillikkal/pymlutils) | Open-source Python ML utilities library |
+
+### 📱 Mobile Apps
+| Repo | Description |
+|------|-------------|
+| [ilab-warranty-app](https://github.com/shebinsillikkal/ilab-warranty-app) | iLab warranty management app — Flutter + Firebase |
+| [silentvalley-app](https://github.com/shebinsillikkal/silentvalley-app) | Silent Valley National Park visitor & trekking app |
+| [shopease-flutterflow](https://github.com/shebinsillikkal/shopease-flutterflow) | E-commerce app on Play Store — FlutterFlow + Stripe |
+| [connectlive-app](https://github.com/shebinsillikkal/connectlive-app) | Real-time social chat platform — 10K+ users |
 
 ---
 
 ## 📫 Hire Me
 
-I'm open to freelance projects — data science, ML, mobile apps, web development, or AI integration.
+I'm open to freelance projects — data science, ML, mobile apps, web dev, or AI integration. **Response time: usually within a few hours.**
 
-**Response time: usually within a few hours.**
-
-📧 **[Shebinsillikkl@gmail.com](mailto:Shebinsillikkl@gmail.com)**
+📧 **[Shebinsillikkal@gmail.com](mailto:Shebinsillikkal@gmail.com)**
 📞 **+91 9745461686**
 💬 **[WhatsApp](https://wa.me/919745461686?text=Hi%20Shebin%2C%20I%20saw%20your%20GitHub%20and%20want%20to%20discuss%20a%20project)**
